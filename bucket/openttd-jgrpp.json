@@ -1,6 +1,6 @@
 {
     "##": "Latest version of JGRPP",
-    "version": "0.72.3",
+    "version": "0.72.4",
     "description": "The classic simulation game with enhanced features and loads of improvements.",
     "homepage": "https://github.com/JGRennison/OpenTTD-patches",
     "license": "GPL-2.0-or-later",
@@ -13,19 +13,19 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-0.72.3/openttd-jgrpp-0.72.3-windows-win64.zip",
-            "hash": "453dabb87511d17d51f9017e6d966b8e4c1409f4f315005bb0700764af6d8d28",
-            "extract_dir": "openttd-jgrpp-0.72.3-windows-win64"
+            "url": "https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-0.72.4/openttd-jgrpp-0.72.4-windows-win64.zip",
+            "hash": "4539edb8d749eae1eaf57b860f00752dd81ccc4b9824f56322bc9e02712f4974",
+            "extract_dir": "openttd-jgrpp-0.72.4-windows-win64"
         },
         "32bit": {
-            "url": "https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-0.72.3/openttd-jgrpp-0.72.3-windows-win32.zip",
-            "hash": "fbd62c743f5e9f9e542eea3cf55042e502fe66c22ee2cf13a29b869f3655b5f3",
-            "extract_dir": "openttd-jgrpp-0.72.3-windows-win32"
+            "url": "https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-0.72.4/openttd-jgrpp-0.72.4-windows-win32.zip",
+            "hash": "46df7e10eb4d375510c947e1faa50d024c3807f15fbc7826dd51aa35aa1eb7eb",
+            "extract_dir": "openttd-jgrpp-0.72.4-windows-win32"
         },
         "arm64": {
-            "url": "https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-0.72.3/openttd-jgrpp-0.72.3-windows-arm64.zip",
-            "hash": "2db62b76eec3ae2cd408ef1df2cc1b5af1aa0ee3f4d20d6f5bcc7a93fb4898b4",
-            "extract_dir": "openttd-jgrpp-0.72.3-windows-arm64"
+            "url": "https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-0.72.4/openttd-jgrpp-0.72.4-windows-arm64.zip",
+            "hash": "75f9502859fcfc86d4179da569c3a7b6ad0f73ec409b4921f921a4cc84be6d96",
+            "extract_dir": "openttd-jgrpp-0.72.4-windows-arm64"
         }
     },
     "bin": "openttd.exe",
